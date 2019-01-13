@@ -5,3 +5,5 @@ https://www.google.*/logos/*
 https://encrypted.google.*/logos/*
 https://www.encrypted.google.*/logos/*
 https://www.google.*/logos/doodles/*
+https://www.google.com/images/branding/googlelogo/*
+https://www.google.com.au/images/branding/googlelogo/*
