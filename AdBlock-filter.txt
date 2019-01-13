@@ -1,0 +1,7 @@
+http://google.*/logos/*
+https://google.*/logos/*
+http://www.google.*/logos/*
+https://www.google.*/logos/*
+https://encrypted.google.*/logos/*
+https://www.encrypted.google.*/logos/*
+https://www.google.*/logos/doodles/*
